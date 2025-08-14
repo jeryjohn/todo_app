@@ -41,8 +41,16 @@ _(Future enhancements suggested: persistent storage, reminders, task prioritizat
 
 ## Demo
 
-![App Screenshot](assets/images/darkmodess.jpg)
-![App Screenshot](assets/images/lightmodess.jpg)
+
+
+## 🌓 Dark Mode vs Light Mode
+
+Our TODO app supports both **Dark Mode** and **Light Mode** to suit your preference.
+
+| Dark Mode | Light Mode |
+|-----------|------------|
+| ![Dark Mode Screenshot](assets/images/darkmodess.jpg) | ![Light Mode Screenshot](assets/images/lightmodess.jpg) |
+
 
 
 ---
