@@ -41,8 +41,9 @@ _(Future enhancements suggested: persistent storage, reminders, task prioritizat
 
 ## Demo
 
-*Insert a screenshot or animated GIF here (e.g., homepage, adding a task)*  
-**Tip:** Use visuals to clarify app flow—enhances user engagement 1.
+![App Screenshot](assets/images/darkmodess.jpg)
+![App Screenshot](assets/images/lightmodess.jpg)
+
 
 ---
 
@@ -55,6 +56,10 @@ _(Future enhancements suggested: persistent storage, reminders, task prioritizat
 
 ## Getting Started
 
+1. **Clone the project:**
+   ```bash
+   git clone https://github.com/jeryjohn/todo_app.git
+   cd todo_app
 1. **Clone the project:**
    ```bash
    git clone https://github.com/jeryjohn/todo_app.git
